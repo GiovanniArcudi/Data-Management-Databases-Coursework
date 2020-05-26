@@ -3,10 +3,10 @@ This coursework covers two key topics of the first-year [COMP1204 - Data Managem
 
 The coursework is divided into five parts: 
 
-1.  
-2.
-3.
-4.
-5.
+1.  The Relational Model
+2.  Normalisation
+3.  Modelling
+4.  Querying
+5.  Extension
 
 Further details are included in the [Coursework Specifications](https://github.com/GiovanniArcudi/Data-Management-UNIX-Coursework/blob/master/UNIX%20Coursework%20Specifications.pdf) PDF.
