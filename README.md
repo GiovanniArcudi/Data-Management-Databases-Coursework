@@ -9,4 +9,4 @@ The coursework is divided into five parts:
 4.  Querying
 5.  Extension
 
-Further details are included in the [Coursework Specifications](https://github.com/GiovanniArcudi/Data-Management-UNIX-Coursework/blob/master/UNIX%20Coursework%20Specifications.pdf) PDF.
+Further details are included in the [Coursework Specifications](https://github.com/GiovanniArcudi/Data-Management-Databases-Coursework/blob/master/Databases%20Coursework%20Specifications.pdf) PDF.
