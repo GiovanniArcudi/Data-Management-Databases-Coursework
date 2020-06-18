@@ -10,5 +10,3 @@ The coursework is divided into five parts:
 5.  Extension
 
 Further details are included in the [Coursework Specifications](https://github.com/GiovanniArcudi/Data-Management-Databases-Coursework/blob/master/Databases%20Coursework%20Specifications.pdf) PDF.
-
-
